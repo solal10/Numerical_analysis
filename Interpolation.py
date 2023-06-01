@@ -1,9 +1,7 @@
 from gaussElimination import *
 
 
-# Solal Ohana 336410055
-# Lior Shilon 316126143
-# Yossi Elgazari 319068920
+
 
 def print_matrix(matrix):
     """
